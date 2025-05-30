@@ -1,0 +1,14 @@
+{
+  "name": "monorepo-project",
+  "version": "1.0.0",
+  "description": "pnpm 기반 Monorepo 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm -r test",
+    "build": "pnpm -r build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0"
+}
